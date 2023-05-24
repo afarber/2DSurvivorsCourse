@@ -25,3 +25,23 @@ collision_layer = 0
 [node name="BasicEnemy2" parent="." instance=ExtResource("4_jikdg")]
 position = Vector2(-246, 126)
 collision_layer = 0
+
+[node name="BasicEnemy3" parent="." instance=ExtResource("4_jikdg")]
+position = Vector2(-442, -3)
+collision_layer = 0
+
+[node name="BasicEnemy4" parent="." instance=ExtResource("4_jikdg")]
+position = Vector2(-331, -188)
+collision_layer = 0
+
+[node name="BasicEnemy5" parent="." instance=ExtResource("4_jikdg")]
+position = Vector2(102, -193)
+collision_layer = 0
+
+[node name="BasicEnemy6" parent="." instance=ExtResource("4_jikdg")]
+position = Vector2(139, -66)
+collision_layer = 0
+
+[node name="BasicEnemy7" parent="." instance=ExtResource("4_jikdg")]
+position = Vector2(186, 109)
+collision_layer = 0
